@@ -48,7 +48,7 @@ const home = {
     title: `${person.name}'s Portfolio`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Product Designer</>,
-    subline: <>I'm Sofía, a design engineer at <InlineCode>OICD</InlineCode>, where I craft intuitive<br/> user experiences. After hours, I build my own projects.</>
+    subline: <>I'm Sofía, a product designer at <InlineCode>OICD</InlineCode>, where I thrive on transforming complex workflows<br/> into user-friendly, leading generative AI-driven digital solutions.</>
 }
 
 const about = {
@@ -64,7 +64,7 @@ const about = {
     },
     calendar: {
         display: true,
-        link: 'https://cal.com'
+        link: 'https://calendly.com/sofia-orellano-/1-1-sofia-orellano'
     },
     intro: {
         display: true,
