@@ -6,7 +6,7 @@ const person = {
     get name() {
         return `${this.firstName} ${this.lastName}`;
     },
-    role:      'Product Designer',
+    role:   'Product Designer',
     avatar:    '/images/avatar.jpg',
     location:  'Europe/London',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
     languages: ['English', 'Spanish']  // optional: Leave the array empty if you don't want to display languages
@@ -69,7 +69,7 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>Selene is a Jakarta-based design engineer with a passion for transforming complex challenges into simple, elegant design solutions. Her work spans digital interfaces, interactive experiences, and the convergence of design and technology.</>
+        description: <>For the past 10 years, I’ve been learning through making - first as a designer and then as a founder. These days, you can find me researching and designing UI for Generative AI experiences.</>
     },
     work: {
         display: true, // set to false to hide this section
