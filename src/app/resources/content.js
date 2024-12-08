@@ -76,12 +76,12 @@ const about = {
         title: 'Work Experience',
         experiences: [
             {
-                company: 'FLY',
-                timeframe: '2022 - Present',
-                role: 'Senior Design Engineer',
+                company: 'OICD',
+                timeframe: '2023 - Present',
+                role: 'Product Designer',
                 achievements: [
-                    <>Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.</>,
-                    <>Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster.</>
+                    <>Redesigned the UI/UX for the OICD platform, resulting in a 20% increase in user engagement and 30% faster load times.</>,
+                    <>Actively collaborated in the end-to-end design process of a new Generative AI cloud platform for conflict resolution, optimized for use across three devices.</>
                 ],
                 images: [ // optional: leave the array empty if you don't want to display images
                     {
@@ -93,12 +93,12 @@ const about = {
                 ]
             },
             {
-                company: 'Creativ3',
-                timeframe: '2018 - 2022',
-                role: 'Lead Designer',
+                company: 'Urbanmento',
+                timeframe: '2015 - 2024',
+                role: 'Lead Designer & founder',
                 achievements: [
                     <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
-                    <>Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue.</>
+                    <>Led a cross-functional team to launch new product lines, contributing to a 15% increase in overall company revenue.</>
                 ],
                 images: [ ]
             }
