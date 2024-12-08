@@ -109,12 +109,12 @@ const about = {
         title: 'Studies',
         institutions: [
             {
-                name: 'University of Jakarta',
-                description: <>Studied software engineering.</>,
+                name: 'Falmouth University',
+                description: <> Master's in User Experience Design with a major project focused on designing applications for Generative AI.</>,
             },
             {
-                name: 'Build the Future',
-                description: <>Studied online marketing and personal branding.</>,
+                name: 'Universidad de la Empresa',
+                description: <>International Bachelor's in Industrial Design with a focus on entrepreneurship.</>,
             }
         ]
     },
@@ -124,7 +124,7 @@ const about = {
         skills: [
             {
                 title: 'Figma',
-                description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
+                description: <>Able to prototype in Figma with unnatural speed.</>,
                 images: [
                     {
                         src: '/images/projects/project-01/cover-02.jpg',
@@ -142,7 +142,7 @@ const about = {
             },
             {
                 title: 'Next.js',
-                description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
+                description: <>Building next gen apps with Next.js + Netlify.</>,
                 images: [
                     {
                         src: '/images/projects/project-01/cover-04.jpg',
