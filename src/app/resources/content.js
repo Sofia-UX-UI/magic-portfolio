@@ -99,8 +99,15 @@ const about = {
                 achievements: [
                     <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
                     <>Led a cross-functional team to launch new product lines, contributing to a 15% increase in overall company revenue.</>
-                ],
-                images: [ ]
+                ], 
+                images: [ 
+                    {
+                        src: '/images/projects/project-01/cover-001-um.jpg',
+                        alt: 'Once UI Project',
+                        width: 16,
+                        height: 9
+                    }
+                ]
             }
         ]
     },
