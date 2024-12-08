@@ -102,8 +102,8 @@ const about = {
                 ], 
                 images: [ 
                     {
-                        src: '/images/projects/project-01/cover-001-um.jpg',
-                        alt: 'Once UI Project',
+                        src: '/images/projects/project-01/cover-001-um.png',
+                        alt: 'Urbanmento',
                         width: 16,
                         height: 9
                     }
