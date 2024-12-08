@@ -94,7 +94,7 @@ const about = {
             },
             {
                 company: 'Urbanmento',
-                timeframe: '2015 - 2024',
+                timeframe: '2015 - 2023',
                 role: 'Lead Designer & founder',
                 achievements: [
                     <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
