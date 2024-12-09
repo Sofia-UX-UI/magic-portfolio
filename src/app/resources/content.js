@@ -140,7 +140,7 @@ const about = {
                         height: 9
                     },
                     {
-                        src: 'public/images/projects/project-01/Fondo-prueba-23.svg',
+                        src: '/images/projects/project-01/Fondo-prueba-23.svg',
                         alt: 'Project image',
                         width: 16,
                         height: 9
@@ -152,7 +152,7 @@ const about = {
                 description: <>Building next gen apps with Next.js + Netlify.</>,
                 images: [
                     {
-                        src: '/images/projects/project-01/cover-04.jpg',
+                        src: '/images/projects/project-01/Fondo-prueba-24.svg',
                         alt: 'Project image',
                         width: 16,
                         height: 9
