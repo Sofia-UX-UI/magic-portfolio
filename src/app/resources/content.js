@@ -134,13 +134,13 @@ const about = {
                 description: <>Able to prototype in Figma with unnatural speed.</>,
                 images: [
                     {
-                        src: '/images/projects/project-01/cover-02.jpg',
+                        src: '/images/projects/project-01/Fondo-prueba-22.svg',
                         alt: 'Project image',
                         width: 16,
                         height: 9
                     },
                     {
-                        src: '/images/projects/project-01/cover-03.jpg',
+                        src: 'public/images/projects/project-01/Fondo-prueba-23.svg',
                         alt: 'Project image',
                         width: 16,
                         height: 9
