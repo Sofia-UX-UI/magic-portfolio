@@ -1,0 +1,40 @@
+---
+title: "Nomad's Notes: a PC language adventure game"
+publishedAt: "2024-09-01"
+summary: "Discover how Nomad's Notes integrates user research, cultural authenticity, and iterative design to craft an engaging language-learning game that turns exploration into education—and why this innovative approach resonates with players and experts alike."
+images:
+  - "/images/projects/project-01/Fondo-prueba-30.svg"
+  - "/images/projects/project-01/Fondo-prueba-36.svg"
+  - "/images/projects/project-01/Fondo-prueba-35.svg"
+team:
+  - name: "Sofía Orellano Abal"
+    role: "MA in User Experience Design"
+    avatar: "/images/avatar.jpg"
+    Website: "https://sofia-orellano.netlify.app/"
+  - name: "Jess Bradshaw"
+    role: "Posdoc at USI"
+    avatar: "/images/projects/project-01/1516656396556.jpeg"
+    Website: "https://www.linkedin.com/in/jessbradshaw1/"
+  - name: "Kristen Hickey"
+    role: "Lecturer Falmouth University"
+    avatar: "/images/projects/project-01/1681834592729.jpeg"
+    Website: "https://www.linkedin.com/in/amies-illustration-design/"
+  - name: "Ben Watson"
+    role: "Lecturer Falmouth University"
+    avatar: "/images/projects/project-01/1672236090098.jpeg"
+    Website: "https://www.linkedin.com/in/ben-watson-3169241b8/"
+---
+
+## Overview
+
+In this project, we focused on automating the design handover process to bridge the gap between designers and developers. As the lead researcher, I guided the development of a chatbot that maps APIs directly to the design context, providing a unified source of truth. The goal was to reduce friction in the design handoff process and improve collaboration between the teams.
+
+## Team
+
+- My role: Lead Product Designer & researcher / Co-author, Falmouth University. 
+- Luca Di Grazia: Co-author, University of Lugano.
+- Chengcheng Qu: Supervisor, Falmouth University.
+
+
+## Timeframe
+
