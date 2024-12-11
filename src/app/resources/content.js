@@ -69,7 +69,7 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>For the past 10 years, I’ve been learning through making - as a designer and as a founder. These days, you can find me researching and designing UI for Generative AI experiences.</>
+        description: <>For the past 10 years, I’ve been learning through making - as a designer and as a founder. These days, you can find me researching and designing Generative AI experiences.</>
     },
     work: {
         display: true, // set to false to hide this section
